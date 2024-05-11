@@ -4,12 +4,11 @@
 
 # Table of Contents 
 + [Introduction](#Introduction)
++ [DATA](https://github.com/madhavyawale7/Titanic-Analysis/blob/main/DATA/Titanic-Dataset.csv)
 + [Data Dictionary](#Data-Dictionary)
 + [Objective](#Objective)
-+ [Dashboard](#Dashboard)
++ [Titanic Dashboard](#Titanic-Dashboard)
 + [Insights](#Insights)
-+ [DATA](#https://github.com/madhavyawale7/Titanic-Analysis/blob/main/DATA/Titanic-Dataset.csv)
-+ [PowerBI File](#)
 
 # Introduction
 "Embark on a journey through the Titanic dataset using Power BI. This project delves into the fascinating story of the Titanic's passengers, unraveling their demographics, survival rates, and journey details. Through interactive visualizations, explore survivor counts, gender distribution, age demographics, fare correlations, and embarkation ports. Dive deeper into specific passenger details, filtering data by age and survival status, to uncover hidden insights and patterns. Experience the Titanic's narrative through the lens of data analytics, shedding light on its historical significance and human stories."
@@ -35,7 +34,7 @@
 
 This project aims to utilize Power BI for in-depth analysis and visualization of the Titanic dataset, uncovering intricate details about the passengers' demographics, survival rates, and voyage particulars. By leveraging interactive visualizations and data exploration techniques, the objective is to discern patterns and correlations within the data, shedding light on the factors influencing survival outcomes. Through this comprehensive examination, the project seeks to offer insights into the historical narrative of the Titanic disaster from a nuanced, data-driven perspective.
 
-# Dashboard 
+# Titanic Dashboard 
 
 ![Titanic Dashboard](https://github.com/madhavyawale7/Titanic-Analysis/assets/159420665/be8aca58-73b1-415a-8751-1f474773e399)
 
