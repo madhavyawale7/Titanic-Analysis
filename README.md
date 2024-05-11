@@ -4,10 +4,12 @@
 
 # Table of Contents 
 + [Introduction](#Introduction)
-+ [Data Dictionary](#Data Dictionary)
++ [Data Dictionary](#Data-Dictionary)
 + [Objective](#Objective)
 + [Dashboard](#Dashboard)
 + [Insights](#Insights)
++ [DATA](#)
++ [PowerBI File](#)
 
 # Introduction
 "Embark on a journey through the Titanic dataset using Power BI. This project delves into the fascinating story of the Titanic's passengers, unraveling their demographics, survival rates, and journey details. Through interactive visualizations, explore survivor counts, gender distribution, age demographics, fare correlations, and embarkation ports. Dive deeper into specific passenger details, filtering data by age and survival status, to uncover hidden insights and patterns. Experience the Titanic's narrative through the lens of data analytics, shedding light on its historical significance and human stories."
