@@ -8,7 +8,7 @@
 + [Objective](#Objective)
 + [Dashboard](#Dashboard)
 + [Insights](#Insights)
-+ [DATA](#)
++ [DATA](#https://github.com/madhavyawale7/Titanic-Analysis/blob/main/DATA/Titanic-Dataset.csv)
 + [PowerBI File](#)
 
 # Introduction
