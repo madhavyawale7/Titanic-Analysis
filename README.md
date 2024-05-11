@@ -1,2 +1,4 @@
 # Titanic-Analysis
-This Is My Power BI Project Explore Titanic dataset in Power BI visualize survivor counts, gender distribution, age demographics, fare correlations, embarkation ports, and top fares. Analyze specific passenger details and filter data for age and survival."
+
+![tt](https://github.com/madhavyawale7/Titanic-Analysis/assets/159420665/d14e33a6-2765-4fc9-bc18-ad16b3b66693)
+
