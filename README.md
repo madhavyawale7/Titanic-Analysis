@@ -5,6 +5,7 @@
 # Table of Contents 
 + [Introduction](#Introduction)
 + [DATA](https://github.com/madhavyawale7/Titanic-Analysis/blob/main/DATA/Titanic-Dataset.csv)
++ [Power BI File](https://github.com/madhavyawale7/Titanic-Analysis/blob/main/Titanic%20Project.pbix)
 + [Data Dictionary](#Data-Dictionary)
 + [Objective](#Objective)
 + [Titanic Dashboard](#Titanic-Dashboard)
